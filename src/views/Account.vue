@@ -1,10 +1,8 @@
 <template>
-  <div>
-    <h2>我是首页</h2>
-  </div>
+  <h2>我是记账</h2>
 </template>
 <script>
 export default {
-  name: 'home'  
+  name: 'account'  
 }
 </script>
